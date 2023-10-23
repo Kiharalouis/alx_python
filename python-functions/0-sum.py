@@ -1,2 +1,4 @@
 #!/usr/bin/env python3
-add = __import__('0-sum').add
+#a function that add two numbers
+def add(i, j):
+    return i + j
