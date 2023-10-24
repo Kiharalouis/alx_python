@@ -1,7 +1,23 @@
-Project badge Python - Hello, World Python Novice By: Guillaume, CTO at Holberton School Weight: 1 Your score will be updated once you launch the project review.
+# INTRODUCTION PYTHON
+    here we will walk through a series of task involving python.
+# ALL TASK
 
-Resources Read or watch:
+## Task 0
+    - using the print function
 
-How to install Python Python for Absolute beginners Python Keywords Identifiers Python Data Types How to Code in Python 3 The Python tutorial (only the first three chapters below) Whetting Your Appetite Using the Python Interpreter An Informal Introduction to Python (Read up until “3.1.2. Strings” included) How To Use String Formatters in Python 3 Learn to Program More Control Flow Tools (Read until “4.6. Defining Functions” included) Myths about Indentation IndentationError - video How To Use String Formatters in Python 3 Learn to Program - video Learn to Program 2 : Looping - video PEP 8 – Style Guide for Python Code Learning Objectives At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+## Task 1
+### Copy - Cut - Paste
+    using the string formatter to format a string out of an output.
 
-General Why Python programming is awesome Who created Python Who is Guido van Rossum Where does the name ‘Python’ come from What is the Zen of Python How to use the Python interpreter How to print text and variables using print How to use strings What are indexing and slicing in Python What is the official Holberton Python coding style and how to check your code with PEP 8 Why indentation is so important in Python How to use the if, if ... else statements How to use comments How to affect values to variables How to use the while and for loops How to use the break and continues statements How to use else clauses on loops What does the pass statement do, and when to use it How to use range What does return a function that does not use any return statement Scope of variables What’s a traceback What are the arithmetic operators and how to use them Requirements Python Scripts Recommended editors: Visual studio code All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3) All your files should end with a new line A README.md file at the root of the alx_python repo, containing a description of the repository A README.md file, at the root of the folder of this project, is mandatory The length of your files will be tested using wc
+## Task 2
+###  Positive anything is better than negative nothing
+    This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.
+
+## Task 3
+### The last digit
+    This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.
+
+## Task 4
+### Hexadecimal printings
+    Write a program that prints all numbers from 0 to 98 in decimal and in hexadecimal (as in the following example)
+ 
